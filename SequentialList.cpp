@@ -1,5 +1,5 @@
 #include "SequentialList.hpp"
-#include <iostream>
+#include <iostream
 #include <string>
 
 SequentialList::SequentialList(unsigned int cap)
