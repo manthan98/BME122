@@ -20,7 +20,7 @@ DoublyLinkedList::~DoublyLinkedList()
     Node* temp = head_;
     if(size_ == 0)
     {
-        // do nothing
+        // do nothin
     } else if(size_ == 1)
     {
         delete(temp);
