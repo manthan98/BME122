@@ -205,9 +205,7 @@ bool DoublyLinkedList::remove(unsigned int index)
         return false;
     } else if(index == 0)
     {
-        // WHY????
-        
-        //remove_front();
+        remove_front();
         return false;
     } else if(index == size_ - 1)
     {
