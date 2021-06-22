@@ -1,3 +1,3 @@
 # BME 122 Labs
 
-Folder of data structures implemented in weekly labs as part of BME 122 course - Data Structures and Algorithms
+BME 122: Data Structures and Algorithms - University of Waterloo Winter 2017
